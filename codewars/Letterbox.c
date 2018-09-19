@@ -2,6 +2,7 @@
 
 int *paint_letterboxes(int start, int end)
 {
+    
     int expi[10];
     int i = 0;
     int count;
