@@ -1,3 +1,5 @@
+// not finished
+
 #include <stdio.h>
 
 int ** cartesian_neighbor(int x, int y);
