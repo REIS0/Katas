@@ -14,6 +14,6 @@ def countBits(n):
     return sum
 
 
-test = int(input("aaa: "))
+test = int(input("Digite um numero: "))
 
 print(countBits(test))
